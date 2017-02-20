@@ -53,7 +53,7 @@ Text JSON format:
 
 1. Colne Git Repository: `$git clone https://github.com/sumitridhal/randomuser.git`
 2. Install Dependecies: `npm install` (installing dependencies from `package.json`)
-3. Run Server : node index.js
+3. Run Server : `node index.js`
 4. `GET` http://localhost:8081/nodeapi/user-stats?count=<> 
 5. Check for Log File: `/randomuser.log` in root folder
 
