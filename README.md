@@ -1,7 +1,7 @@
 # Assignment 
 random user api assignment 
 
-## Problem
+### Problem
 You need to connect to the random user API following the documentation available at the following link.
  
 `https://randomuser.me/documentation`
@@ -24,7 +24,8 @@ Response:
   
 Text JSON format:
 
-```{
+```json
+{
   "user-count": 3500,
   "status": "success",
   "sexDistribution": {
@@ -46,4 +47,3 @@ Text JSON format:
   }
 }
 ```
-
