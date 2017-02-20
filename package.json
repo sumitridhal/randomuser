@@ -1,0 +1,18 @@
+{
+  "name": "randomuser",
+  "version": "1.0.0",
+  "description": "Random User API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sumit Ridhal",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "lodash": "^4.17.4",
+    "moment": "^2.17.1",
+    "request": "^2.79.0"
+  }
+}
